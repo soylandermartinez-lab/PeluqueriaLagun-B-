@@ -1,0 +1,7 @@
+{
+  "name": "Peluquería Lagun",
+  "description": "Sitio web moderno y minimalista para Peluquería Lagun en Santurtzi, con sistema de reserva de citas de 30 minutos y asesor de estilo inteligente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
